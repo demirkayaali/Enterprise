@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transaction Manager"
-    id="4cf62f77-4118-47b1-8ca5-6f67349db480"
+    name="Error Manager"
+    id="54738679-fabf-4424-9e7e-c84aceb21ad2"
     documentation="There is no need for log management&#xA;&#xA;change logs are in transaction manager&#xA;access logs are managed by command manager"/>
