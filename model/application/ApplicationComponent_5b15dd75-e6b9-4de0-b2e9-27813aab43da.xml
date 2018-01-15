@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Manager"
+    id="5b15dd75-e6b9-4de0-b2e9-27813aab43da"
+    documentation="Screens, Services, Windows, Controls,Labels,Enums are controlled by resorce management library.&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Actor"
-    id="d4911353-10a0-4d35-8d20-72665f0424bb"/>
+    id="d4911353-10a0-4d35-8d20-72665f0424bb"
+    documentation="Person or Machine who starts the interaction"/>

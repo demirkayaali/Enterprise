@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Error Manager"
+    name="Flow Manager"
     id="54738679-fabf-4424-9e7e-c84aceb21ad2"
-    documentation="There is no need for log management&#xA;&#xA;change logs are in transaction manager&#xA;access logs are managed by command manager"/>
+    documentation="Flow manager follows all operations along an interaction from high level access interface to low level operations"/>

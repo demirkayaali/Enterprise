@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presentation"
-    id="263db3d4-861e-4f33-8a6b-de8d74ed7094"/>
+    id="263db3d4-861e-4f33-8a6b-de8d74ed7094"
+    documentation="Authorization,Localization and Platform specific interface decoration&#xA;(Language,Mobile,web, ..)"/>
