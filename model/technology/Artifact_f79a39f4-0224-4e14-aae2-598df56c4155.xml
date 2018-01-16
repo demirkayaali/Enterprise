@@ -1,4 +1,12 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Object"
-    id="f79a39f4-0224-4e14-aae2-598df56c4155"/>
+    id="f79a39f4-0224-4e14-aae2-598df56c4155"
+    documentation="Objects can be  internally created (like a citizen) or external (like a visitor)&#xA;There is no need for an object to know its origin.&#xA;Id manager responsible for object integrity and security.&#xA;">
+  <properties
+      key="ObjectId"/>
+  <properties
+      key="FirstTransactionId"/>
+  <properties
+      key="LastTransactionId"/>
+</archimate:Artifact>
